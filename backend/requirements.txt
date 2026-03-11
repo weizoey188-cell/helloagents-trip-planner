@@ -27,3 +27,9 @@ uv>=0.8.0
 # 其他工具
 python-dateutil>=2.8.2
 huggingface_hub>=0.25.0
+
+# 异步支持
+asyncio>=3.4.3
+
+# 数据处理
+numpy>=1.24.0
